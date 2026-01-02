@@ -1,2 +1,2 @@
 # AyuBarter
-AyuBarter is an innovative Ayurvedic wellness and hyperlocal barter platform that integrates AI-enabled healthcare, seamless digital services, and traditional exchange culture within a trusted community network.
+AyuBarter is a modern Ayurvedic wellness and hyperlocal barter platform that blends AI-driven healthcare, digital convenience, and traditional exchange culture into one trusted community ecosystem.
